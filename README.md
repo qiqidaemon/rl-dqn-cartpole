@@ -5,6 +5,8 @@ Vanilla DQN (Deep Q-Network) implementation from scratch using PyTorch, trained 
 **Result: Solved in ~950 episodes — 10/10 perfect scores (500/500) on evaluation.**
 
 ![Training Curve](results/training_curve.png)
+<img width="1310" height="518" alt="evaluate_10" src="https://github.com/user-attachments/assets/f0b173a9-af09-4b7f-8125-1815fdcdcdfb" />
+
 
 ## What is this
 
